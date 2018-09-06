@@ -1,3 +1,4 @@
+added_event_bus
 <template>
   <div v-bind:class="{ 'home': cl==='home', 'homeclosed': cl==='homeclosed' }">
   	<div class="content">
